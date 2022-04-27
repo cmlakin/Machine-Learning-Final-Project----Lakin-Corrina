@@ -31,23 +31,26 @@ python
   to what exterior walls are more common for the area or what is trending in the area. 
   For example, Stucco is very popular in the South West, but is not as common in the 
   mid-west.
-  
-  ![image](https://user-images.githubusercontent.com/55162193/165192081-2aaf2b80-6fd0-475e-b1ae-00e2fd646b0c.png)
+  <p align="center">
+    <img src=[image](https://user-images.githubusercontent.com/55162193/165192081-2aaf2b80-6fd0-475e-b1ae-00e2fd646b0c.png)>
+  </p>
 
 ### Total Value vs Sale Price by Land Use
 
     In this dataset Land Use tells you what type of home it is, Single Family, Duplex, Triplex, etc..
     I have widdled down the dataset to only include those 3. 
-    
-    ![image](https://user-images.githubusercontent.com/55162193/165192355-2ccd56e3-cfb0-4b28-b10f-ffa12f33b61b.png)
+    <p align="center">
+        <img src=![image](https://user-images.githubusercontent.com/55162193/165192355-2ccd56e3-cfb0-4b28-b10f-ffa12f33b61b.png)>
+    </p>
 
 ### Sale Price vs Bedrooms
 
     I don't think this dataset give accurate information for Triplex's with the information 
     that was gathered. The single family homes have the highest increase in sales price as
     the number of bedrooms increase. This is a typical trend. 
-    
-    ![image](https://user-images.githubusercontent.com/55162193/165192632-7d3648cd-f081-4a01-b1d4-01e9e2a088e7.png)
+    <p align="center">
+        <img src=![image](https://user-images.githubusercontent.com/55162193/165192632-7d3648cd-f081-4a01-b1d4-01e9e2a088e7.png)>
+    </p>
     
 ### Sale Price vs Finished Area
 
