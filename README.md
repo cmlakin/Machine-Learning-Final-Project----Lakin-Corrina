@@ -34,7 +34,7 @@ python
   For example, Stucco is very popular in the South West, but is not as common in the 
   mid-west.
   <p align="center">
-    <img src="./TotalValue_vs_SalePrice_by_Exterior.png" alt="Size Limit CLI" width="738">
+    <img src="./TotalValue_vs_SalePrice_by_Exterior.png">
     </p>
 
 ### Sale Price vs Bedrooms
