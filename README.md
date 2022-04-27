@@ -34,15 +34,7 @@ python
   For example, Stucco is very popular in the South West, but is not as common in the 
   mid-west.
   <p align="center">
-    <img src=(https://user-images.githubusercontent.com/55162193/165192081-2aaf2b80-6fd0-475e-b1ae-00e2fd646b0c.png)>
-  </p>
-
-### Total Value vs Sale Price by Land Use
-
-    In this dataset Land Use tells you what type of home it is, Single Family, Duplex, Triplex, etc..
-    I have widdled down the dataset to only include those 3. 
-    <p align="center">
-        <img src=![image](https://user-images.githubusercontent.com/55162193/165192355-2ccd56e3-cfb0-4b28-b10f-ffa12f33b61b.png)>
+    <img src="./TotalValue_vs_SalePrice_by_Exterior.png" alt="Size Limit CLI" width="738">
     </p>
 
 ### Sale Price vs Bedrooms
@@ -51,43 +43,6 @@ python
     that was gathered. The single family homes have the highest increase in sales price as
     the number of bedrooms increase. This is a typical trend. 
     <p align="center">
-        <img src=![image](https://user-images.githubusercontent.com/55162193/165192632-7d3648cd-f081-4a01-b1d4-01e9e2a088e7.png)>
+        <img src="./SalePrice_vs_Bedrooms.png" alt="Size Limit CLI" width="738">
     </p>
     
-### Sale Price vs Finished Area
-
-    It is always inportant to look at the available square footage of the home. Some homes
-    are not worth considering depending on the area and the size of, let's say a family
-    to move into. If the house is close by a school, you will have higher potential for
-    for a family to be looking in that area. 
-    
-    ![image](https://user-images.githubusercontent.com/55162193/165192816-8176f8d9-0284-4cd6-9e42-7276fae54967.png)
-
-    
-### Finished Area vs Bedrooms
-
-    If a house is all bedrooms and no living space, you may have a hard time selling.
-    
-    ![image](https://user-images.githubusercontent.com/55162193/165192976-14e9ce40-c22d-411e-b280-6893c5550c53.png)
-
-### Full Bath vs Bedrooms by Foundation Type
-
-    When updating bathrooms, access to plumbing can be very important and tell you how
-    big of a job this could be. Slab homes would like need concrete torn up for plumbing
-    issues and cost more to upgrade and add to bathroooms. Having a basement/crawl space 
-    can make these improvements much easier and more cost effective. 
-    
-    Another reason to look at this is because if you have a house with more than 3 
-    bedrooms, it is going to make the house a lot more attactive of a purchase if 
-    there is more than one bathroom. 
-    
-    ![image](https://user-images.githubusercontent.com/55162193/165193523-26338747-85f6-4c11-be35-bb6952f6b121.png)
-
-
-    
-
-    
-    
-
-
-
