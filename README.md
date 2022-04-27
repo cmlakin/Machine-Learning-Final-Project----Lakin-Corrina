@@ -28,21 +28,21 @@ python
   
 ### Total Value vs Sale Price by Exterior Wall
 
-  Depending on the makeup of the exterior walls, you can eleminate certain types based
-  on what it could take to fix/replace them. You can also see trends for that area as
-  to what exterior walls are more common for the area or what is trending in the area. 
-  For example, Stucco is very popular in the South West, but is not as common in the 
-  mid-west.
-  <p align="center">
-    <img src="./TotalValue_vs_SalePrice_by_Exterior.png">
-    </p>
+Depending on the makeup of the exterior walls, you can eleminate certain types based
+on what it could take to fix/replace them. You can also see trends for that area as
+to what exterior walls are more common for the area or what is trending in the area. 
+For example, Stucco is very popular in the South West, but is not as common in the 
+mid-west.
+<p align="center">
+<img src="./TotalValue_vs_SalePrice_by_Exterior.png" alt="Size Limit CLI" width="500">
+</p>
 
 ### Sale Price vs Bedrooms
 
-    I don't think this dataset give accurate information for Triplex's with the information 
-    that was gathered. The single family homes have the highest increase in sales price as
-    the number of bedrooms increase. This is a typical trend. 
-    <p align="center">
-        <img src="./SalePrice_vs_Bedrooms.png" alt="Size Limit CLI" width="738">
-    </p>
+I don't think this dataset give accurate information for Triplex's with the information 
+that was gathered. The single family homes have the highest increase in sales price as
+the number of bedrooms increase. This is a typical trend. 
+<p align="center">
+    <img src="./SalePrice_vs_Bedrooms.png" alt="Size Limit CLI" width="500">
+</p>
     
