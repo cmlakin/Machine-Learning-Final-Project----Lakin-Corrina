@@ -17,25 +17,24 @@ python
     
 ### Total Value Avg vs Sale Price Avg
 
-  <p align="center">
+This information can give a trend of what prices houses are selling for vs what their
+acutal worth is. When looking for houses to rehab, you can start with this to help
+guide you towards data of houses currently on the market to look at for a potential 
+flip.
+
+<p align="center">
     <img src="./TotalValue_comp_SalePrice.png" alt="Size Limit CLI" width="738">
     </p>
 
-  This information can give a trend of what prices houses are selling for vs what their
-  acutal worth is. When looking for houses to rehab, you can start with this to help
-  guide you towards data of houses currently on the market to look at for a potential 
-  flip.
   
-### Total Value vs Sale Price by Exterior Wall
+  
+### Total Value vs Sale Price by Land Use
 
-Depending on the makeup of the exterior walls, you can eleminate certain types based
-on what it could take to fix/replace them. You can also see trends for that area as
-to what exterior walls are more common for the area or what is trending in the area. 
-For example, Stucco is very popular in the South West, but is not as common in the 
-mid-west.
+In this dataset Land Use tells you what type of home it is, Single Family, Duplex, Triplex, etc..
+I have widdled down the dataset to only include those 3. 
 <p align="center">
-<img src="./TotalValue_vs_SalePrice.png" alt="Size Limit CLI" width="500">
-</p>
+    <img src="./TotalValue_vs_SalePrice.png" alt="Size Limit CLI" width="500">
+    </p>
 
 ### Sale Price vs Bedrooms
 
