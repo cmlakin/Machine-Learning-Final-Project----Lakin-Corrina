@@ -17,7 +17,9 @@ python
     
 ### Total Value Avg vs Sale Price Avg
 
-  ![image](https://user-images.githubusercontent.com/55162193/165191493-e4170fea-deea-4681-a4f9-eb832fbc2c15.png)
+  <p align="center">
+    <img src="./example.png" alt="Size Limit CLI" width="738">
+    </p>
 
   This information can give a trend of what prices houses are selling for vs what their
   acutal worth is. When looking for houses to rehab, you can start with this to help
