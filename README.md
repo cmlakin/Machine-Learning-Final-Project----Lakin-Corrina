@@ -18,7 +18,7 @@ python
 ### Total Value Avg vs Sale Price Avg
 
   <p align="center">
-    <img src="./example.png" alt="Size Limit CLI" width="738">
+    <img src="./TotalValue_comp_SalePrice.png" alt="Size Limit CLI" width="738">
     </p>
 
   This information can give a trend of what prices houses are selling for vs what their
