@@ -34,7 +34,7 @@ to what exterior walls are more common for the area or what is trending in the a
 For example, Stucco is very popular in the South West, but is not as common in the 
 mid-west.
 <p align="center">
-<img src="./TotalValue_vs_SalePrice_by_Exterior.png" alt="Size Limit CLI" width="500">
+<img src="./TotalValue_vs_SalePrice_by_Exterior.png" alt="Size Limit CLI" width="300">
 </p>
 
 ### Sale Price vs Bedrooms
