@@ -32,7 +32,7 @@ python
     can be very lucrative. 
 
 <p align="center">
-    <img src="./Total_comp_Sale.png" alt="Size Limit CLI" width="800">
+    <img src="./Total_comp_Sale.png" alt="Size Limit CLI" width="738">
     </p>
 
   
