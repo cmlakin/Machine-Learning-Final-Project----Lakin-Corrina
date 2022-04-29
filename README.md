@@ -21,9 +21,18 @@ python
     acutal worth is. When looking for houses to rehab, you can start with this to help
     guide you towards data of houses currently on the market to look at for a potential 
     flip.
+    
+    From this information, when selecting the number of bedrooms of houses to go look at
+    for possible flips I would narrow my search to the 3-5 bedroom homes. The housing market
+    that we are currently in, houses are selling for well over their actual value, but this 
+    is not something you can depend on lasting. When you can purchase a house for a decent 
+    amount under it's value, you have room to put money towards renovations and see a profit
+    in the return when the house sells. A lesson learned from previous flips is that sometimes
+    the land is worth more than the house itself, so restoring/renovating on these properties 
+    can be very lucrative. 
 
 <p align="center">
-    <img src="./TotalValue_comp_SalePrice.png" alt="Size Limit CLI" width="738">
+    <img src="./Total_comp_Sale.png" alt="Size Limit CLI" width="738">
     </p>
 
   
