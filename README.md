@@ -61,5 +61,20 @@ python
 
 ### Training and Test set accuaracy
     
-    Training set accuracy: 88%
-    Test set accuracy: 89%
+    The bar graph below shows the difference in accuracy between the test and train set in the range of 
+    the test set being comprised of 10-90% of the data. The train set always has slightly higher accuracy
+    but both are pretty close.
+<p align="center">
+    <img src="./TestTrainAccuracy.png" alt="Size Limit CLI" width="600">
+</p>    
+    
+### Residuals of the Linear Regression Model
+
+
+<p align="center">
+    <img src="./Residuals.png" alt="Size Limit CLI" width="600">
+</p>  
+
+    
+    
+    
