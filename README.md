@@ -46,7 +46,7 @@ python
     In this dataset Land Use tells you what type of home it is, Single Family, Duplex, Triplex, etc..
     I have widdled down the dataset to only include those 3. 
 <p align="center">
-    <img src="./3D_LandUde.png" alt="Size Limit CLI" width="600">
+    <img src="./3D_LandUse.png" alt="Size Limit CLI" width="600">
     </p>
 
 ### Total Value vs Sale Price vs Bedrooms by Exterior Wall
