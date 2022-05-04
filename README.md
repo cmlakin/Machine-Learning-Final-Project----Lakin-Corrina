@@ -41,21 +41,21 @@ python
 
   
   
-### Total Value vs Sale Price by Land Use
+### Total Value vs Sale Price vs Bedrooms by Land Use
 
     In this dataset Land Use tells you what type of home it is, Single Family, Duplex, Triplex, etc..
     I have widdled down the dataset to only include those 3. 
 <p align="center">
-    <img src="./TotalValue_vs_SalePrice.png" alt="Size Limit CLI" width="600">
+    <img src="./3D_LandUde.png" alt="Size Limit CLI" width="600">
     </p>
 
-### Total Value vs Sale Price by Bedrooms
+### Total Value vs Sale Price vs Bedrooms by Exterior Wall
 
     I used a ploty diagram for this. It shows where the data is more condensed. The thing that I like
     about this diagram/graph is that you can move it around depending on the direction you would like
     to view it, but you can also just hover over specific dots to get the information from them. I also
     really like that you are able to zoom in and out on these diagrams/graphs.
 <p align="center">
-    <img src="./SalePrice_vs_Bedrooms.png" alt="Size Limit CLI" width="600">
+    <img src="./3D_Exterior.png" alt="Size Limit CLI" width="600">
 </p>
     
