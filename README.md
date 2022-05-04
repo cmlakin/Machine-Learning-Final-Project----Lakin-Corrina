@@ -70,6 +70,10 @@ python
     
 ### Residuals of the Linear Regression Model
 
+    The graph plots as I would have expected with a large portion of the data grouped in one area. This
+    is pretty comparable to the other graphs displayed above, showing that the range of sales vs values
+    are largely in a tight focused area. The distribution shows a very nice bell curve. I am not sure 
+    what I was expecting here, but it plots nicely. 
 
 <p align="center">
     <img src="./Residuals.png" alt="Size Limit CLI" width="600">
