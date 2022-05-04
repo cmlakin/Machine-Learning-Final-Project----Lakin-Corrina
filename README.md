@@ -14,6 +14,10 @@ python
     data, you can see Sales Price values compared to Total Value of house and property,
     bedrooms, bathrooms, finished area (square footage), etc. 
     
+    In this dataset I label encoded the Land Use since there were only 3 that I kept, and 
+    I used one hot encoding on the Property City. I created additional columns for avg 
+    sale price and total value by bedrooms to gather some initial data. 
+    
     
 ### Total Value Avg vs Sale Price Avg
 
@@ -45,11 +49,12 @@ python
     <img src="./TotalValue_vs_SalePrice.png" alt="Size Limit CLI" width="600">
     </p>
 
-### Sale Price vs Bedrooms
+### Total Value vs Sale Price by Bedrooms
 
-    I don't think this dataset give accurate information for Triplex's with the information 
-    that was gathered. The single family homes have the highest increase in sales price as
-    the number of bedrooms increase. This is a typical trend. 
+    I used a ploty diagram for this. It shows where the data is more condensed. The thing that I like
+    about this diagram/graph is that you can move it around depending on the direction you would like
+    to view it, but you can also just hover over specific dots to get the information from them. I also
+    really like that you are able to zoom in and out on these diagrams/graphs.
 <p align="center">
     <img src="./SalePrice_vs_Bedrooms.png" alt="Size Limit CLI" width="600">
 </p>
