@@ -58,4 +58,8 @@ python
 <p align="center">
     <img src="./3D_Exterior.png" alt="Size Limit CLI" width="600">
 </p>
+
+### Training and Test set accuaracy
     
+    Training set accuracy: 88%
+    Test set accuracy: 89%
