@@ -87,7 +87,7 @@ python
     how to export the text of it the screen and that worked, but it only shows a very small amount.
    
 <p align="center">
-    <img src="./DecisionTreeExport.png" alt="Size Limit CLI" width="600">
+    <img src="./DecsionTreeExport.png" alt="Size Limit CLI" width="600">
 </p>  
     
     
