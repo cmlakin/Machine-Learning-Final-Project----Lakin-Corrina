@@ -14,9 +14,11 @@ python
     data, you can see Sales Price values compared to Total Value of house and property,
     bedrooms, bathrooms, finished area (square footage), etc. 
     
-    In this dataset I label encoded the Land Use since there were only 3 that I kept, and 
-    I used one hot encoding on the Property City. I created additional columns for avg 
-    sale price and total value by bedrooms to gather some initial data. 
+    In this dataset I map for the Land Use since there were only 3 that I kept, and 
+    I used one label encoding on the Property City. I created additional columns for avg 
+    sale price and total value by bedrooms to gather some initial data. I might have been 
+    using the one hot encoding improperly, but it did not seem to give me the results I 
+    was expecting. 
     
     
 ### Total Value Avg vs Sale Price Avg
@@ -79,6 +81,13 @@ python
     <img src="./Residuals.png" alt="Size Limit CLI" width="600">
 </p>  
 
-    
+### Decision Tree
+
+    I could not get the decision tree to print out like in all the examples that I saw. Then I came across
+    how to export the text of it the screen and that worked, but it only shows a very small amount.
+
+<p align="center">
+    <img src="./DecisionTreeExport.png" alt="Size Limit CLI" width="600">
+</p>  
     
     
