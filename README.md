@@ -81,13 +81,19 @@ python
     <img src="./Residuals.png" alt="Size Limit CLI" width="600">
 </p>  
 
-### Decision Tree
-
-    I could not get the decision tree to print out like in all the examples that I saw. Then I came across
-    how to export the text of it the screen and that worked, but it only shows a very small amount.
-   
-<p align="center">
-    <img src="./DecsionTreeExport.png" alt="Size Limit CLI" width="300">
-</p>  
+### Logistics Regression
+    
+    I chose to go with Logistics Regression model. Part of my choice for this was the accuracy difference
+    between this model and the Decision Tree. I read that Logistic regression can sometimes be limiting
+    only having one line to set the boundry, but for this dataset I feel it gives better results. I don't 
+    think that the classes of this dataset are very separable, not for the way that I was looking at the 
+    data at least, which means the signigicantly lower accuracy rate is likely due to over training. 
+    
+    I do think that if I were to have taken a different approach to how I was looking at the data, maybe 
+    looking at it by Property city being my target, a Decision Tree may prove to be better in that case.
+    With a greater seperation, the non-linear boundries could provide better results. 
+    
+    Accuracy of logistic regression classifier on test set: 0.02
+    Accuracy of decision tree classifier on test set: 0.008
     
     
